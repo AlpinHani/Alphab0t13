@@ -8,7 +8,7 @@ return `PAYMENT BY HANZ BOT
 2. OVO
 	ㅁ 0882 2335 3453
 3. DANA
-	ㅁ 0882 22335 3453
+	ㅁ 0882 2335 3453
 	
 Semuanya atas nama Ha***b
 

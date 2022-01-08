@@ -17,7 +17,7 @@ return `「 *PRICE LIST* 」
 
 
 ⬣ MINAT? PM
-⬡ wa.me/6281378121129
+⬡ wa.me/6285871073723
 
 NOTE : 
 Bot On 24 Jam Karna Di Run Menggunakan Heroku

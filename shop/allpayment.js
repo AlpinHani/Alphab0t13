@@ -1,14 +1,14 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY HANZ BOT
+return `PAYMENT BY ALPIN
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0882 2335 3453
+	ㅁ 0822 8775 0102
 2. OVO
-	ㅁ 0882 2335 3453
+	ㅁ 0822 8775 0102
 3. DANA
-	ㅁ 0882 2335 3453
+	ㅁ 0822 8775 0102
 	
 Semuanya atas nama Ha***b
 
